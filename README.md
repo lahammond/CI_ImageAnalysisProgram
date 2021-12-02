@@ -1,2 +1,3 @@
 # CI_ImageAnalysisProgram
-Macros from Cellular Imaging's Image Analysis Program
+
+These macros have been shared as part of Cellular Imaging's <a href="https://www.cellularimaging.org/2021-image-analysis-program">Image Analysis Program</a>
